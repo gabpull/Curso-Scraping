@@ -1,0 +1,33 @@
+Información de productos de Amazon
+
+- Url de resultado: https://www.amazon.com/s?k=logitech+c922&crid=16U03R5OU1GWZ&sprefix=logitech+c922%2Caps%2C159&ref=nb_sb_noss_1
+- Producto:         <div class="s-featured-result-item">    
+- Nombre:           <spam class="a-size-medium a-color-base a-text-normal">    
+- Precio:           <spam class="a-offscreen">    
+- URL:              <a class="a-link-normal s-underline-text s-underline-link-text s-link-style a-text-normal">    
+                        
+    Información de productos de Ebay
+
+- Url de resultado:  https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=logitech+c922&_sacat=0   
+- Producto:          <li class="s-item s-item__pl-on-bottom">   
+- Nombre:            <h3 class="s-item__title">   
+- Precio:            <spam class="s-item__price">   
+- URL:               <a class="s-item__link"> 
+
+
+Mas x Menos
+
+- Url de resultado:  https://www.masxmenos.cr/torta-kimby-congelado-pollo-unidades-640gr/p   
+- Producto:          <span class="vtex-store-components-3-x-productBrand vtex-store-components-3-x-productBrand--quickview ">
+- Nombre:            <span class="vtex-store-components-3-x-productBrand vtex-store-components-3-x-productBrand--quickview ">
+- Precio:            <span class="vtex-store-components-3-x-currencyContainer vtex-store-components-3-x-currencyContainer--summary">   
+- URL:               
+
+Peri
+
+- Url de resultado:  https://www.peridomicilio.com/frescos/congelados/tortas-congeladas/tortas-pollo-kimby-8und.html
+- Producto:          <span class="vtex-store-components-3-x-productBrand vtex-store-components-3-x-productBrand--quickview">
+- Nombre:            <span class="ty-product-block-title">
+- Precio:            <spam class="ty-price-num">
+- URL: 
+
